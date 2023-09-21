@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487970228364",
+    "project_id": "klinikadmin-94f7c",
+    "storage_bucket": "klinikadmin-94f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487970228364:android:73e2916f1d9cf104a9d3a9",
+        "android_client_info": {
+          "package_name": "com.example.klinikadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJudrGp1WFKjPPkEmuwO6SxHyKAe8Se8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

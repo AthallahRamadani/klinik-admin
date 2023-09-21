@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="25dp"
+    android:layout_margin="8dp"
+    android:backgroundTint="@color/green"
+    >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_nama_pasien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="nama pasien"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textStyle="italic"/>
+
+</LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
